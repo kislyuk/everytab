@@ -1,0 +1,13 @@
+{
+  "background": {
+    "scripts": ["background.js", "underscore.js"]
+  },
+  "description": "Tab management that doesn't suck.",
+  "name": "Everytab",
+  "omnibox": { "keyword" : "et" },
+  "permissions": [ "tabs" ],
+  "version": "6.1",
+  "minimum_chrome_version": "9",
+
+  "manifest_version": 2
+}
